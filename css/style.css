@@ -1,0 +1,237 @@
+.card1 {
+    width: 20%;
+    height: 65px;
+    background: #E5BEEC;
+    display: flex;
+    float: left;
+  }
+  .card2 {
+    width: 80%;
+    height: 65px;
+    background: #E5BEEC;
+    display: flex;
+    float: left;
+  }
+  .nav {
+    width: 100%;
+    height: 120px;
+    background: #D14D72;
+  }
+  .nav h3 {
+    display: flex;
+    float: left;
+    padding-left: 4%;
+    color: white;
+  }
+  .section {
+    
+    width: 100%;
+    height: 650px;
+    text-align: center;
+    background: #E5D1FA;
+  }
+  .news {
+    line-height: 50px;
+    padding-top: 10px;
+    margin-top: 2%;
+  }
+  
+  .news1 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #6D5D6E;
+  }
+  .news2 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+  
+    background-color: #B3C99C;
+  }
+  .news3 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-right: 5%;
+  
+    background-color: #19376D;
+  }
+  .news4 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #A9907E;
+  }
+  .news5 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+  
+    background-color: #F7DB6A;
+  }
+  .news6 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-right: 5%;
+  
+    background-color: #DF7857;
+  }
+  .about{
+    line-height: 50px;
+    height: 100%;
+    width: 100%;
+    margin-top: 2%;
+    padding: 2px;
+    text-align: center;
+    background: #7DB9B6;
+  }
+  .about1{
+    line-height: 50px;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 50px;
+    padding-top: 10px;
+    margin-top: 2%;
+
+  }
+  .services {
+    
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    background: #E5D1FA;
+  }
+  .service{
+    line-height: 50px;
+    padding-top: 10px;
+    margin-top: 2%;
+    flex-direction: row;
+  }
+  .S1 {
+    width: 20%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #635985;
+  }
+  .S2 {
+    width: 20%;
+    height: 150px;
+    margin: 1%;
+    float: left; 
+    background-color: #E3DFFD;
+  }
+  .S3 {
+    width: 20%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    background-color: #F6E6C2;
+  }
+  .S4 {
+    width: 20%;
+    height: 150px;
+    float: left;
+    margin: 1%;
+    background-color: #C9F4AA;
+  }
+  .S5 {
+    width: 20%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #B99B6B;
+  }
+  .S6 {
+    width: 20%;
+    height: 150px;
+    margin: 1%;
+    float: left; 
+    background-color: #A7727D;
+  }
+  .S7 {
+    width: 20%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    background-color: #FEC868;
+  }
+  .S8 {
+    width: 20%;
+    height: 150px;
+    float: left;
+    margin: 1%;
+    background-color: #FF7B54;
+  }
+  .contact{
+    width: 100%;
+    height: 550px;
+    text-align: left;
+    background: #E5D1FA;
+    margin-top: 2%;
+    padding-left: 4px;
+    font-weight: bold;
+    font-size: x-large;
+  }
+  .contact h2 {
+    text-align: center;
+  }
+  input {
+    background-color: #656565;
+    border: none;
+  }
+  .input {
+    margin: 3%;
+  }
+  textarea{
+    background-color: #555;
+    color: #fff;
+    border: none;
+    width: 450px;
+  }
+  .btn-div {
+    display: flex;
+    width: 450px;
+    justify-content: right;
+    align-self: center;
+}
+
+.btn {
+    color: #fff;
+    background-color: #555;
+    padding: 5px 15px;
+    border: none;
+    display: block;
+    width: 100px;
+    height: 40px;
+}
+  
+  .footer {
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 2%;
+    height: 55px;
+    background-color: #2e2e2e;
+    text-align: center;
+  }
+  
+  .contact p {
+    margin-bottom: 0px;
+  }
+  
